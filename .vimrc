@@ -18,7 +18,6 @@ set smartindent
 nnoremap j gj
 nnoremap k gk
 let mapleader=","
-nmap <Leader>x <Plug>ToggleAutoCloseMappings
 
 " keyword and omni completion with ctrl + space
 inoremap <expr> <C-Space> pumvisible() \|\| &omnifunc == '' ?
