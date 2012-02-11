@@ -43,8 +43,6 @@ require("revelation")
 -- Different system status widget providers
 require("vicious")
 
---require("bashets")
-
 -- Application switcher 
 require("aweswt")
 -- }}}
